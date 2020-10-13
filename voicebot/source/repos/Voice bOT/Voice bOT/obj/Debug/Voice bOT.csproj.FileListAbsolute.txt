@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\bin\Debug\Voice bOT.exe.config
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\bin\Debug\Voice bOT.exe
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\bin\Debug\Voice bOT.pdb
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\obj\Debug\Voice bOT.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\obj\Debug\Voice_bOT.Form1.resources
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\obj\Debug\Voice_bOT.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\obj\Debug\Voice bOT.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\obj\Debug\Voice bOT.exe
+C:\Users\Lenovo\source\repos\Voice bOT\Voice bOT\obj\Debug\Voice bOT.pdb
